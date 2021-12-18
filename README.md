@@ -7,7 +7,7 @@ Official pytorch implementation for "PointMixer" (Arxiv'21)
 
 <img src="./etc/teaser.jpg" width="300" height="300"> 
 
-- **All the implementation will be released after we finsh cleaning the code.**
+- **All the implementation will be released soon.**
 
 ## Environment
 We provide two ways to build the environment, docker and conda. You can use one of them which you prefer.
