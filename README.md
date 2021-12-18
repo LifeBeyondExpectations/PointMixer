@@ -7,4 +7,5 @@ Official pytorch implementation for "PointMixer" (Arxiv'21)
 
 <img src="./etc/teaser.jpg" width="300" height="300"> 
 
+- This repo provides the official implementation of **PointMixer** and an unofficial implemention of [Point Transformer](https://arxiv.org/abs/2012.09164).
 - We are currently cleaning the code now.
