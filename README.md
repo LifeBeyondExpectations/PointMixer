@@ -35,6 +35,7 @@ sh env_setup.sh
 (under construction)
 
 ## Training / Evaluation
+(Please refer to the task-specific guidances in each folder)
 
 ## Results
 
