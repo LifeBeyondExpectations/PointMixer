@@ -1,0 +1,11 @@
+opencv-python
+matplotlib==3.3.4
+tensorboardX==2.1
+scikit-image==0.17.2
+pytorch-lightning==1.4.9
+neptune-client==0.12.0
+open3d
+pykitti==0.3.1
+torchmetrics==0.4.0
+einops
+pandas==1.3.0
