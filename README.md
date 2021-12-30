@@ -15,7 +15,8 @@ We provide two ways to build the environment, docker and conda. You can use one 
 ### Docker image
 ```
 # Pull docker image
-docker pull jaesungchoe/pointmixer:0.1
+# docker pull jaesungchoe/pointmixer:0.1
+docker pull jaesungchoe/pointmixer:cuda11.1
 
 # create your own container and attach to the container.
 # (for instance) docker run -it --gpus '"device=0,1"' --name pointmixer --shm-size 32G --net=host -e NVIDIA_VISIBLE_DEVICES=0,1 jaesungchoe/pointmixer:0.1
